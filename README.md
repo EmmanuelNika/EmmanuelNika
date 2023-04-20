@@ -18,7 +18,7 @@
 
 <hr>
 
-### A Bientot! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ProMahmudul&style=flat-square&color=0088cc)
+### A Bientot! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EmmanuelNika&style=flat-square&color=0088cc)
 
 I'm a 26 years old Full Stack Developer from Uganda. I mainly code in Java and JavaScript, but I'm always learning. I
 love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and
