@@ -4,17 +4,14 @@
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/promahmudul/">
-  <img align="center" alt="Mahmudul Hassan | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+<a href="https://www.instagram.com/emmanuel_nika/">
+  <img align="center" alt="Emmanuel Nika | Instagram" src="https://www.flaticon.com/free-icon/instagram_2111463"/>
 </a>
-<a href="https://mahmudulhassan.me/">
-  <img align="center" alt="Mahmudul's Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+<a href="https://www.linkedin.com/in/emmanuel-nika-1aa81a172/">
+  <img align="center" alt="Emmanuel Nika | LinkedIn" src="https://www.flaticon.com/free-icon/linkedin_174857" />
 </a>
-<a href="https://facebook.com/ProMahmudul">
-  <img align="center" alt="Mahmudul's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
-</a>
-<img align="center" alt="Mahmuduls's Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
- </p>
+<a href="https://www.facebook.com/emmanuel.okot.31">
+  <img align="center" alt="Emmanuel Nika | Facebook" src="https://www.flaticon.com/free-icon/facebook_733547" />
 
 
 <div align="center">
