@@ -4,20 +4,12 @@
 
 <img align="center" alt="Emmanuel Nika | Intro" src="assets/intro.png"/>
 
-<div align='center'>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://www.instagram.com/emmanuel_nika/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-nika-1aa81a172/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://www.facebook.com/emmanuel.okot.31)
+<div align=center>
 
-  <!-- <a href="https://www.instagram.com/emmanuel_nika/">
-    <img align="center" alt="Emmanuel Nika | Instagram" src="https://www.flaticon.com/free-icon/instagram_2111463"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emmanuel-nika-1aa81a172/">
-    <img align="center" alt="Emmanuel Nika | LinkedIn" src="https://www.flaticon.com/free-icon/linkedin_174857" />
-  </a>
-  <a href="https://www.facebook.com/emmanuel.okot.31">
-    <img align="center" alt="Emmanuel Nika | Facebook" src="https://www.flaticon.com/free-icon/facebook_733547" />
-  </a> -->
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel_nika/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-nika-1aa81a172/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/emmanuel.okot.31)
+
 </div>
 
 <div align="center">
@@ -26,9 +18,11 @@
 
 <hr>
 
-### Glad To See You Here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ProMahmudul&style=flat-square&color=0088cc)
+### A Bientot! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ProMahmudul&style=flat-square&color=0088cc)
 
-I'm a 26 years old Full Stack Developer from Bangladesh. I mainly code in Php and JavaScript, but I'm always learning. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and guide and mentor others.
+I'm a 26 years old Full Stack Developer from Uganda. I mainly code in Java and JavaScript, but I'm always learning. I
+love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to teach and
+guide and mentor others.
 
 ### Tech & Tools Preference
 
@@ -36,5 +30,13 @@ I'm a 26 years old Full Stack Developer from Bangladesh. I mainly code in Php an
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Quarkus-4695EB?style=flat&logo=quarkus&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=FFFFFF">
