@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a target="_blank" href="https://emmanuelnika.github.io/portfolio/">Emmanuel Nika</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a target="_blank" href="https://plankton-app-33h8y.ondigitalocean.app/">Emmanuel Nika</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <img align="center" alt="Emmanuel Nika | Intro" src="assets/intro.png"/>
