@@ -40,3 +40,7 @@ guide and mentor others.
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=FFFFFF">
+
+### StarDev Ranking
+
+<a href="https://stardev.io/developers/EmmanuelNika"><img alt="Check out EmmanuelNika's profile on stardev.io" src="https://stardev.io/developers/EmmanuelNika/badge/languages/locality.svg" /></a>
