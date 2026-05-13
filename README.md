@@ -6,7 +6,7 @@
 
 <div align=center>
 
-[![Wesbite](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=firefox&logoColor=white)](https://www.emmanuelnika.com/)
+[![Wesbite](https://img.shields.io/badge/-Wesbite-FF7139?style=flat&logo=firefox&logoColor=white)](https://www.emmanuelnika.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel_nika/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-nika-1aa81a172/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/emmanuel.okot.31)
