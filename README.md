@@ -28,8 +28,8 @@ authentication layer for the company's Java services.
 - **[Zineph Salon & Spa](https://zineph.com)** — a fast, search-ready site for a
   Nairobi salon, prerendered on Cloudflare's edge and deployed on every merge.
 - **[Quarkus Inventory](https://github.com/EmmanuelNika/quarkus-applications)** —
-  a modular-monolith inventory service built two ways, with swappable Keycloak
-  or Okta authorization.
+  an inventory service that values stock five ways (average, FIFO, LIFO, HIFO,
+  first-expiry), prices it from markup, and tracks batches and serials.
 
 More on [emmanuelnika.com](https://emmanuelnika.com/#projects).
 
